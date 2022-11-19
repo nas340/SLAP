@@ -4,4 +4,3 @@ sklearn
 scipy
 spacy
 flask_session
-uvicorn
