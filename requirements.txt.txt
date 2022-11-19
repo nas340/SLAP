@@ -1,0 +1,7 @@
+flask
+numpy==1.19.3
+sklearn
+scipy
+spacy
+flask_session
+uvicorn
